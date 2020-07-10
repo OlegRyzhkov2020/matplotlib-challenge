@@ -27,7 +27,7 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
 
 ![ecdf_chart](images/ecdf.png)
 
-_#### 2: Female vs male mice distribution
+#### 2: Female vs male mice distribution
 
 ![histogram](images/distribution.png)
 
@@ -40,6 +40,8 @@ _#### 2: Female vs male mice distribution
 #### 4: Tumor vs weight across four drug regimens
 
 ![Swamp plot](images/swampplot.png)
+
+#### 5: Regression model
 
 ## Contacts
 [Find Me on
