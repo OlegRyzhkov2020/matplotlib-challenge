@@ -23,23 +23,23 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
 
 #### 1: Graphical representation of a matrix of distances
 
-![age_statisics](images/dendrogram.png)
+![dendrogram](images/dendrogram.png)
 
-![age_statisics](images/ecdf.png)
+![ecdf_chart](images/ecdf.png)
 
-#### 2: Female vs male mice distribution
+_#### 2: Female vs male mice distribution
 
-![Type_chart](images/distribution.png)
+![histogram](images/distribution.png)
 
 #### 3: Ramicane and Capomulin show greater decrease in tumor volume
 
-![Type_chart](images/stat_table.png)
+![Drug Regimen table](images/stat_table.png)
 
-![Type_chart](images/boxplot.png)
+![Box plot](images/boxplot.png)
 
 #### 4: Tumor vs weight across four drug regimens
 
-![Type_chart](images/swampplot.png)
+![Swamp plot](images/swampplot.png)
 
 ## Contacts
 [Find Me on
