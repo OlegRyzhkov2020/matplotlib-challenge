@@ -21,21 +21,23 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
 
 ## Dataset observations and inferences
 
-#### 1: Tumor volume data normality
+#### 1: Graphical representation of a matrix of distances
 
 ![age_statisics](images/dendrogram.png)
 
-![age_statisics](images/ecdf.png)M
+![age_statisics](images/ecdf.png)
 
 #### 2: Female vs male mice distribution
 
 ![Type_chart](images/distribution.png)
 
-#### 3: Final tumor volume across four drug regimens
+#### 3: Ramicane and Capomulin show greater decrease in tumor volume
+
+![Type_chart](images/stat_table.png)
 
 ![Type_chart](images/boxplot.png)
 
-#### 4: Tumor vs weight across all drug regimens
+#### 4: Tumor vs weight across four drug regimens
 
 ![Type_chart](images/swampplot.png)
 
