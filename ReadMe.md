@@ -37,11 +37,23 @@ Homework Assignment, Data Science and Visualization Boot Camp (Northwestern Univ
 
 ![Box plot](images/boxplot.png)
 
-#### 4: Tumor vs weight across four drug regimens
+#### 4: Regression model
+* Linear regression (mouse weight vs average tumor volume for the Capomulin regimen)
+
+![Swamp plot](images/regression.png)
+
+* Formulating and Simulating a Hypothesis
+
+  - The observed data: Capomulin and Ramicane Drug Regimens
+  - Null hypothesis: The tumor volume is not significantly affected by the chosen Drug Regimen (Capomulin vs Ramicane)
+  - p value is greater than significance level - we can not reject the null hypothesis
+
+#### 5: Further research questions
+* How Drug Regimen treatment is affected by the mouse weight
+
+![Swamp plot](images/weight_distribution.png)
 
 ![Swamp plot](images/swampplot.png)
-
-#### 5: Regression model
 
 ## Contacts
 [Find Me on
